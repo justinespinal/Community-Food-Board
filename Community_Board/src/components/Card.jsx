@@ -6,6 +6,7 @@ const Card = (props) => {
             <div className="foodCard">
                 <img src={props.src} className="imageHolder"></img>
                 <div className="titleHolder">
+                    <br></br>
                     <h3>{props.name}</h3>
                     <h4>{props.type}</h4>
                     <a href={props.menu}>

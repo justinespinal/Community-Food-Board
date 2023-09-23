@@ -32,6 +32,7 @@
   background-color: white;
   margin-top: -10px;
   padding-bottom: 5px;
+  border-radius: 25px;
 }
 
 .wholeCard{
@@ -39,5 +40,5 @@
 }
 
 .awning{
-  width: 100%;
+  width: 75%;
 }
