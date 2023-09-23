@@ -38,6 +38,7 @@ GIF created with ScreenToGif
 ## Notes
 
 Describe any challenges encountered while building the app.
+
 My main challenge was displaying the cards correctly in a row. Online resources helped a bunch with this problem so I was able to resolve it pretty quickly.
 ## License
 
